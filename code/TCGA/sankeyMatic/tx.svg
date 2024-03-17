@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="400"
+   width="800"
+   version="1.1"
+   id="svg77"
+   sodipodi:docname="tx.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Your Diagram Title</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs81" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1163"
+     id="namedview79"
+     showgrid="false"
+     inkscape:zoom="1.1125147"
+     inkscape:cx="505.96784"
+     inkscape:cy="246.19378"
+     inkscape:window-x="3120"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="sankey_labels" />
+  <title
+     id="title2">Your Diagram Title</title>
+  <!-- Generated with SankeyMATIC: 10/21/2023, 4:56:15 PM -->
+  <g
+     transform="translate(55.106666,-182)"
+     id="g75">
+    <g
+       id="sankey_flows"
+       transform="translate(71.909164,91.684184)">
+      <path
+         id="flow0"
+         d="m 9,141.30041 v 82.94776 l 525.89333,-1.37791 V 139.9225 Z"
+         inkscape:connector-curvature="0"
+         style="opacity:0.45;fill:#f68612;stroke:#f68612;stroke-width:0.5">
+        <title
+           id="title4">0 → CL: 19</title>
+      </path>
+      <path
+         id="flow1"
+         d="m 9,263.53922 c 262.94667,0 262.94667,53.89515 525.89333,53.89515"
+         inkscape:connector-curvature="0"
+         style="opacity:0.45;fill:none;stroke:#f68612;stroke-width:78.58209229">
+        <title
+           id="title7">0 → ME: 18</title>
+      </path>
+      <path
+         id="flow4"
+         d="m 9,345.00631 c 262.94667,0 262.94667,-95.94202 525.89333,-95.94202"
+         inkscape:connector-curvature="0"
+         style="opacity:0.45;fill:none;stroke:#91191e;stroke-width:52.38806152">
+        <title
+           id="title10">1 → CL: 12</title>
+      </path>
+      <path
+         id="flow7"
+         d="m 9,417.03989 c 262.94667,0 262.94667,4.39209 525.89333,4.39209"
+         inkscape:connector-curvature="0"
+         style="opacity:0.45;fill:none;stroke:#91191e;stroke-width:39.29103851">
+        <title
+           id="title13">1 → PN: 9</title>
+      </path>
+      <path
+         id="flow5"
+         d="m 9,382.11451 c 262.94667,0 262.94667,-14.47492 525.89333,-14.47492"
+         inkscape:connector-curvature="0"
+         style="opacity:0.45;fill:none;stroke:#91191e;stroke-width:21.8283596">
+        <title
+           id="title16">1 → ME: 5</title>
+      </path>
+      <path
+         id="flow2"
+         d="m 9,307.19593 c 262.94667,0 262.94667,78.60851 525.89333,78.60851"
+         inkscape:connector-curvature="0"
+         style="opacity:0.45;fill:none;stroke:#f68612;stroke-width:8.73134041">
+        <title
+           id="title19">0 → NE: 2</title>
+      </path>
+      <path
+         id="flow3"
+         d="m 9,313.74444 c 262.94667,0 262.94667,85.85918 525.89333,85.85918"
+         inkscape:connector-curvature="0"
+         style="opacity:0.45;fill:none;stroke:#f68612;stroke-width:4.3656702">
+        <title
+           id="title22">0 → PN: 1</title>
+      </path>
+      <path
+         id="flow6"
+         d="m 9,395.21153 c 262.94667,0 262.94667,-2.85858 525.89333,-2.85858"
+         inkscape:connector-curvature="0"
+         style="opacity:0.45;fill:none;stroke:#91191e;stroke-width:4.3656702">
+        <title
+           id="title25">1 → NE: 1</title>
+      </path>
+    </g>
+    <g
+       id="sankey_nodes"
+       transform="translate(71.909164,91.684184)">
+      <g
+         class="node"
+         id="g32">
+        <rect
+           id="r0"
+           class="for_r0"
+           x="0"
+           y="141.30042"
+           height="174.62688"
+           width="9"
+           style="fill:#f68612;fill-opacity:1">
+          <title
+             id="title29">0:
+40</title>
+        </rect>
+      </g>
+      <g
+         class="node"
+         id="g37">
+        <rect
+           id="r1"
+           class="for_r1"
+           x="534.89331"
+           y="139.9225"
+           height="135.33582"
+           width="9"
+           style="fill:#17becf;fill-opacity:1">
+          <title
+             id="title34">CL:
+31</title>
+        </rect>
+      </g>
+      <g
+         class="node"
+         id="g42">
+        <rect
+           id="r2"
+           class="for_r2"
+           x="534.89331"
+           y="278.14331"
+           height="100.41045"
+           width="9"
+           style="fill:#1f77b4;fill-opacity:1">
+          <title
+             id="title39">ME:
+23</title>
+        </rect>
+      </g>
+      <g
+         class="node"
+         id="g47">
+        <rect
+           id="r3"
+           class="for_r3"
+           x="534.89331"
+           y="381.43878"
+           height="13.09701"
+           width="9"
+           style="fill:#ff7f0e;fill-opacity:1">
+          <title
+             id="title44">NE:
+3</title>
+        </rect>
+      </g>
+      <g
+         class="node"
+         id="g52">
+        <rect
+           id="r4"
+           class="for_r4"
+           x="534.89331"
+           y="397.42078"
+           height="43.656719"
+           width="9"
+           style="fill:#2ca02c;fill-opacity:1">
+          <title
+             id="title49">PN:
+10</title>
+        </rect>
+      </g>
+      <g
+         class="node"
+         id="g57">
+        <rect
+           id="r5"
+           class="for_r5"
+           x="0"
+           y="318.81229"
+           height="117.87313"
+           width="9"
+           style="fill:#91191e;fill-opacity:1">
+          <title
+             id="title54">1:
+27</title>
+        </rect>
+      </g>
+    </g>
+    <g
+       id="sankey_labels"
+       font-size="16px"
+       font-weight="400"
+       style="font-weight:400;font-size:16px;font-family:sans-serif;fill:#000000">
+      <rect
+         id="label0_bg"
+         class="for_r0"
+         x="17.802505"
+         y="306.74136"
+         width="51.924999"
+         height="26.57333"
+         rx="4"
+         style="fill:#ffffff;fill-opacity:0.55;stroke:none;stroke-width:0;stroke-opacity:0" />
+      <text
+         id="label0"
+         class="for_r0"
+         x="67.374466"
+         y="327.48895"
+         style="text-anchor:end">Low: 40</text>
+      <text
+         id="label1"
+         class="for_r1"
+         x="673.77246"
+         y="303.76892"
+         dy="6.6500001"
+         style="text-anchor:end">CL: 31</text>
+      <text
+         id="label2"
+         class="for_r2"
+         x="676.46906"
+         y="423.62817"
+         dy="6.6500001"
+         style="text-anchor:end">ME: 23</text>
+      <text
+         id="label3"
+         class="for_r3"
+         x="663.88495"
+         y="477.87372"
+         dy="6.6500001"
+         style="text-anchor:end">NE: 3</text>
+      <text
+         id="label4"
+         class="for_r4"
+         x="673.77246"
+         y="510.93332"
+         dy="6.6500001"
+         style="text-anchor:end">PN: 10</text>
+      <rect
+         id="label5_bg"
+         class="for_r5"
+         x="17.802505"
+         y="455.87634"
+         width="51.924999"
+         height="26.57333"
+         rx="4"
+         style="fill:#ffffff;fill-opacity:0.55;stroke:none;stroke-width:0;stroke-opacity:0" />
+      <text
+         id="label5"
+         class="for_r5"
+         x="68.07106"
+         y="475.72507"
+         style="text-anchor:end">High: 27</text>
+    </g>
+  </g>
+</svg>

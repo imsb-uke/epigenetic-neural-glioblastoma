@@ -1,0 +1,21 @@
+// Enter Flows between Nodes, like this:
+//         Source [AMOUNT] Target
+
+Low [19] CL
+Low [18] ME
+Low [2] NE
+Low [1] PN
+
+High [12] CL
+High [5] ME
+High [1] NE
+High [9] PN
+
+// You can set a Node's color, like this:
+:Low #f68612
+:High #91191
+//            ...or a color for a single Flow:
+// Budget [160] Other Necessities #0F0
+
+// Use the controls below to customize
+// your diagram's appearance...

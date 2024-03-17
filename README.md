@@ -1,6 +1,6 @@
 ## About
 
-The repository contains code for the following tasks included in [Epigenetic neural glioblastoma enhances synaptic integration and predicts therapeutic vulnerability](https://www.biorxiv.org/content/10.1101/2023.08.04.552017v1) [1].
+The repository contains code for the following tasks included in [Epigenetic neural glioblastoma enhances synaptic integration and predicts therapeutic vulnerability](https://www.biorxiv.org/content/10.1101/2023.08.04.552017v1) [1]:
 |Task   | Description             | Source       |
 |:--------------------- |:------------------- |:-------------------:|
 | DNA methylation deconvolution | Code to process and perform DNA methylation deconvolution. Please cite [Moss et al. (2018)](https://www.nature.com/articles/s41467-018-07466-6) [2] if you use it.| [DNAm_deconv](code/DNAm_deconv)  |

@@ -1,4 +1,4 @@
-epigenetic-neural-glioblastoma
+## About
 
 The repository contains code for the following tasks included in [Epigenetic neural glioblastoma enhances synaptic integration and predicts therapeutic vulnerability](https://www.biorxiv.org/content/10.1101/2023.08.04.552017v1).
 |Task   | Description             | Source       |

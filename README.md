@@ -1,6 +1,6 @@
 ## About
 
-The repository contains code for the following tasks included in [Epigenetic neural glioblastoma enhances synaptic integration and predicts therapeutic vulnerability](https://www.biorxiv.org/content/10.1101/2023.08.04.552017v1) [1]:
+The repository contains code for the following tasks included in [A prognostic neural epigenetic signature in high-grade glioma](https://www.nature.com/articles/s41591-024-02969-w) [1]:
 |Task   | Description             | Source       |
 |:--------------------- |:------------------- |:-------------------:|
 | DNA methylation deconvolution | Code to process and perform DNA methylation deconvolution. Please cite [Moss et al. (2018)](https://www.nature.com/articles/s41467-018-07466-6) [2] if you use it.| [DNAm_deconv](code/DNAm_deconv)  |
@@ -12,6 +12,6 @@ The repository contains code for the following tasks included in [Epigenetic neu
 | RNA groups | Compare correspondence between RNA GBM subgroups and neural subgroups for paired DNAm-RNA TCGA data | [TCGA](code/TCGA) |
 | WGCNA | Code to perform WGCNA analysis on paired proteomics data, also includes geneset and cell type enrichment | [WGCNA_proteomics](code/WGCNA_proteomics) |
 
-[1] Drexler, Richard, et al. "Epigenetic neural glioblastoma enhances synaptic integration and predicts therapeutic vulnerability." bioRxiv (2023).
+[1] Drexler, R., Khatri, R., Sauvigny, T. et al. A prognostic neural epigenetic signature in high-grade glioma. Nat Med (2024). https://doi.org/10.1038/s41591-024-02969-w
 
-[2] Moss, Joshua, et al. "Comprehensive human cell-type methylation atlas reveals origins of circulating cell-free DNA in health and disease." Nature communications 9.1 (2018): 5068.
+[2] Moss, J., Magenheim, J., Neiman, D. et al. Comprehensive human cell-type methylation atlas reveals origins of circulating cell-free DNA in health and disease. Nat Commun 9, 5068 (2018). https://doi.org/10.1038/s41467-018-07466-6

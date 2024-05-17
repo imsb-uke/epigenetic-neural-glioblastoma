@@ -12,6 +12,7 @@ The repository contains code for the following tasks included in [A prognostic n
 | RNA groups | Compare correspondence between RNA GBM subgroups and neural subgroups for paired DNAm-RNA TCGA data | [TCGA](code/TCGA) |
 | WGCNA | Code to perform WGCNA analysis on paired proteomics data, also includes geneset and cell type enrichment | [WGCNA_proteomics](code/WGCNA_proteomics) |
 
+## References
 [1] Drexler, R., Khatri, R., Sauvigny, T. et al. A prognostic neural epigenetic signature in high-grade glioma. Nat Med (2024). https://doi.org/10.1038/s41591-024-02969-w
 
 [2] Moss, J., Magenheim, J., Neiman, D. et al. Comprehensive human cell-type methylation atlas reveals origins of circulating cell-free DNA in health and disease. Nat Commun 9, 5068 (2018). https://doi.org/10.1038/s41467-018-07466-6

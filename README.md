@@ -3,6 +3,7 @@
 The repository contains code for the following tasks included in [A prognostic neural epigenetic signature in high-grade glioma](https://www.nature.com/articles/s41591-024-02969-w) [1]:
 |Task   | Description             | Source       |
 |:--------------------- |:------------------- |:-------------------:|
+| An example run of the signature classifying the neural groups | Contains code to run the fitted logistic regression model on an example IDAT | [run neural classification](code/example_neural_classification) |
 | DNA methylation deconvolution | Code to process and perform DNA methylation deconvolution. Please cite [Moss et al. (2018)](https://www.nature.com/articles/s41467-018-07466-6) [2] if you use it.| [DNAm_deconv](code/DNAm_deconv)  |
 | CNV | Wrapper to perform copy number variation analysis using Conumee package across multiple groups | [CNV](code/CNV) |
 | Differential methylation probes | Differential methylation probes and gene set enrichment between the neural groups | [DNAm_DMP](code/DNAm_DMP) |

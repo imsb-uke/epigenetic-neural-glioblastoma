@@ -20,6 +20,4 @@ def convert_epicv2_to_v1(input_file, output_file):
     print(f"EPIC v1 probes: {len(betas_v1)}")
     print(f"Output saved to: {output_file}")
     
-    return betas_v1
-
-result = convert_epicv2_to_v1("betas.csv", "betas_epicv1.csv")
+    return None
